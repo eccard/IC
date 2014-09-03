@@ -1,0 +1,104 @@
+Informações sobre o Nb correspondente ao arquivo background_higss.root
+eventos do background entre 500-(2*17.258) e 500+(2*17.258)
+ Nb 2*sigma =0
+eventos do background entre 500-(3*17.258) e 500+(3*17.258)
+ Nb 3*sigma =0
+eventos do background entre 500-(4*17.258) e 500+(4*17.258)
+ Nb 4*sigma =0
+----------------------------------------------------------------------------
+Informações sobre o Nb correspondente ao arquivo background_ZZ.root
+eventos do background entre 500-(2*17.258) e 500+(2*17.258)
+ Nb 2*sigma =236
+eventos do background entre 500-(3*17.258) e 500+(3*17.258)
+ Nb 3*sigma =360
+eventos do background entre 500-(4*17.258) e 500+(4*17.258)
+ Nb 4*sigma =472
+----------------------------------------------------------------------------
+ 
+Informações sobre o Ns correspondente ao arquivo bilepton_M500_Mq600.root
+eventos do sinal entre 500-(2*17.258) e 500+(2*17.258)
+ Nb 2*sigma =38481
+eventos do background entre 500-(3*17.258) e 500+(3*17.258)
+ Nb 3*sigma =40214
+eventos do background entre 500-(4*17.258) e 500+(4*17.258)
+ Nb 4*sigma =40421
+______________________________________________________________________________________________
+ 
+Informações sobre o Nb correspondente ao arquivo background_higss.root
+eventos do background entre 600-(2*20.8441) e 600+(2*20.8441)
+ Nb 2*sigma =0
+eventos do background entre 600-(3*20.8441) e 600+(3*20.8441)
+ Nb 3*sigma =0
+eventos do background entre 600-(4*20.8441) e 600+(4*20.8441)
+ Nb 4*sigma =0
+----------------------------------------------------------------------------
+Informações sobre o Nb correspondente ao arquivo background_ZZ.root
+eventos do background entre 600-(2*20.8441) e 600+(2*20.8441)
+ Nb 2*sigma =131
+eventos do background entre 600-(3*20.8441) e 600+(3*20.8441)
+ Nb 3*sigma =199
+eventos do background entre 600-(4*20.8441) e 600+(4*20.8441)
+ Nb 4*sigma =271
+----------------------------------------------------------------------------
+ 
+Informações sobre o Ns correspondente ao arquivo bilepton_M600_Mq600.root
+eventos do sinal entre 600-(2*20.8441) e 600+(2*20.8441)
+ Nb 2*sigma =39072
+eventos do background entre 600-(3*20.8441) e 600+(3*20.8441)
+ Nb 3*sigma =40815
+eventos do background entre 600-(4*20.8441) e 600+(4*20.8441)
+ Nb 4*sigma =41032
+______________________________________________________________________________________________
+ 
+Informações sobre o Nb correspondente ao arquivo background_higss.root
+eventos do background entre 500-(2*41.5338) e 500+(2*41.5338)
+ Nb 2*sigma =0
+eventos do background entre 500-(3*41.5338) e 500+(3*41.5338)
+ Nb 3*sigma =1
+eventos do background entre 500-(4*41.5338) e 500+(4*41.5338)
+ Nb 4*sigma =5
+----------------------------------------------------------------------------
+Informações sobre o Nb correspondente ao arquivo background_ZZ.root
+eventos do background entre 500-(2*41.5338) e 500+(2*41.5338)
+ Nb 2*sigma =596
+eventos do background entre 500-(3*41.5338) e 500+(3*41.5338)
+ Nb 3*sigma =1021
+eventos do background entre 500-(4*41.5338) e 500+(4*41.5338)
+ Nb 4*sigma =1613
+----------------------------------------------------------------------------
+ 
+Informações sobre o Ns correspondente ao arquivo bilepton_M800_Mq600.root
+eventos do sinal entre 800-(2*41.5338) e 800+(2*41.5338)
+ Nb 2*sigma =39886
+eventos do background entre 800-(3*41.5338) e 800+(3*41.5338)
+ Nb 3*sigma =40532
+eventos do background entre 800-(4*41.5338) e 800+(4*41.5338)
+ Nb 4*sigma =40784
+______________________________________________________________________________________________
+ 
+Informações sobre o Nb correspondente ao arquivo background_higss.root
+eventos do background entre 1000-(2*41.5338) e 1000+(2*41.5338)
+ Nb 2*sigma =0
+eventos do background entre 1000-(3*41.5338) e 1000+(3*41.5338)
+ Nb 3*sigma =0
+eventos do background entre 1000-(4*41.5338) e 1000+(4*41.5338)
+ Nb 4*sigma =0
+----------------------------------------------------------------------------
+Informações sobre o Nb correspondente ao arquivo background_ZZ.root
+eventos do background entre 1000-(2*41.5338) e 1000+(2*41.5338)
+ Nb 2*sigma =22
+eventos do background entre 1000-(3*41.5338) e 1000+(3*41.5338)
+ Nb 3*sigma =36
+eventos do background entre 1000-(4*41.5338) e 1000+(4*41.5338)
+ Nb 4*sigma =52
+----------------------------------------------------------------------------
+ 
+Informações sobre o Ns correspondente ao arquivo bilepton_M1000_Mq600.root
+eventos do sinal entre 1000-(2*41.5338) e 1000+(2*41.5338)
+ Nb 2*sigma =37573
+eventos do background entre 1000-(3*41.5338) e 1000+(3*41.5338)
+ Nb 3*sigma =39462
+eventos do background entre 1000-(4*41.5338) e 1000+(4*41.5338)
+ Nb 4*sigma =39990
+______________________________________________________________________________________________
+ 
