@@ -1,0 +1,17 @@
+							total		após cortes de eventos 2u+ 2u-     sigma        corte 2*sigma    corte 3*sigma  corte 4*sigma
+bilepton_M500_Mq600.rootcut_muon_Posi_InvariantMass       50 000 	     	Total ->  40658           17.258	   38481            40214	    40421
+bilepton_M500_Mq600.rootcut_muon_Nega_InvariantMass       50 000		Total ->  40658
+bilepton_M600_Mq600.rootcut_muon_Posi_InvariantMass       50 000		Total ->  41256	   	  20.8441	   39072	    40815 	    41032
+bilepton_M600_Mq600.rootcut_muon_Nega_InvariantMass       50 000		Total ->  41256
+bilepton_M700_Mq600.rootcut_muon_Posi_InvariantMass   	  50 000		Total ->  41162		  25.4245	   38681            40480           40756
+bilepton_M700_Mq600.rootcut_muon_Nega_InvariantMass   	  50 000		Total ->  41162
+bilepton_M800_Mq600.rootcut_muon_Posi_InvariantMass   	  50 000 		Total ->  41226		  30.3487          38256            40113           40499
+bilepton_M800_Mq600.rootcut_muon_Nega_InvariantMass   	  50 000 		Total ->  41226
+bilepton_M900_Mq600.rootcut_muon_Posi_InvariantMass   	  50 000 		Total ->  41065		  35.8237          37895            39769           40241
+bilepton_M900_Mq600.rootcut_muon_Nega_InvariantMass   	  50 000 		Total ->  41065
+bilepton_M1000_Mq600.rootcut_muon_Posi_InvariantMass   	  50 000 		Total ->  41003		  41.5338          37573            39462           39990
+bilepton_M1000_Mq600.rootcut_muon_Nega_InvariantMass   	 500 000 		Total ->  41003
+background_higss.rootcut_muon_Posi_InvariantMass   	 500 000 		Total ->  9407
+background_higss.rootcut_muon_Nega_InvariantMass   	 500 000 		Total ->  9407
+background_ZZ.rootcut_muon_Posi_InvariantMass   	 500 000		Total ->  91977
+background_ZZ.rootcut_muon_Nega_InvariantMass   	 500 000 		Total ->  91977
