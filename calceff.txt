@@ -1,0 +1,39 @@
+							total		após cortes de eventos 2u+ 2u-   eff 
+bilepton_MY500_Mq400.rootcut_muon_Posi_InvariantMass   	50 000		        Total ->  40274	           0.80548 
+bilepton_MY500_Mq400.rootcut_muon_Nega_InvariantMass  	  ||		        Total ->  40274		   0.80548 	 
+bilepton_MY600_Mq400.rootcut_muon_Posi_InvariantMass   				Total ->  40828		   0.81656 
+bilepton_MY600_Mq400.rootcut_muon_Nega_InvariantMass   				Total ->  40828		   0.81656 
+bilepton_M700_Mq400.rootcut_muon_Posi_InvariantMass   				Total ->  40923		   0.81846 
+bilepton_M700_Mq400.rootcut_muon_Nega_InvariantMass   				Total ->  40923		   0.81846 
+bilepton_M800_Mq400.rootcut_muon_Posi_InvariantMass   				Total ->  41121		   0.82242 
+bilepton_M800_Mq400.rootcut_muon_Nega_InvariantMass   				Total ->  41121		   0.82242 
+bilepton_M900_Mq400.rootcut_muon_Posi_InvariantMass   				Total ->  40913		   0.81826 
+bilepton_M900_Mq400.rootcut_muon_Nega_InvariantMass   				Total ->  40913		   0.81826 
+bilepton_M1000_Mq400.rootcut_muon_Posi_InvariantMass   				Total ->  40896		   0.81792 
+bilepton_M1000_Mq400.rootcut_muon_Nega_InvariantMass   				Total ->  40896		   0.81792 
+
+bilepton_M500_Mq600.rootcut_muon_Posi_InvariantMass       	 	     	Total ->  40658		    0.81316 
+bilepton_M500_Mq600.rootcut_muon_Nega_InvariantMass       			Total ->  40658		    0.81316 
+bilepton_M600_Mq600.rootcut_muon_Posi_InvariantMass       			Total ->  41256		    0.82512 
+bilepton_M600_Mq600.rootcut_muon_Nega_InvariantMass       			Total ->  41256		    0.82512 
+bilepton_M700_Mq600.rootcut_muon_Posi_InvariantMass   	      			Total ->  41162		    0.82324 
+bilepton_M700_Mq600.rootcut_muon_Nega_InvariantMass   	  			Total ->  41162		    0.82324 
+bilepton_M800_Mq600.rootcut_muon_Posi_InvariantMass   	  	 		Total ->  41226		    0.82452 
+bilepton_M800_Mq600.rootcut_muon_Nega_InvariantMass   	   			Total ->  41226		    0.82452 
+bilepton_M900_Mq600.rootcut_muon_Posi_InvariantMass   	   			Total ->  41065		    0.8213 
+bilepton_M900_Mq600.rootcut_muon_Nega_InvariantMass   	   			Total ->  41065		    0.8213 
+bilepton_M1000_Mq600.rootcut_muon_Posi_InvariantMass   	   			Total ->  41003		    0.82006 
+bilepton_M1000_Mq600.rootcut_muon_Nega_InvariantMass   	   			Total ->  41003		    0.82006 
+
+bilepton_M500_Mq800.rootcut_muon_Posi_InvariantMass  	     		        Total ->  41136		    0.82272 
+bilepton_M500_Mq800.rootcut_muon_Nega_InvariantMass   				Total ->  41136		    0.82272 
+bilepton_M600_Mq800.rootcut_muon_Posi_InvariantMass 				Total ->  41328 	    0.82656 
+bilepton_M600_Mq800.rootcut_muon_Nega_InvariantMass   				Total ->  41328		    0.82656 
+bilepton_M700_Mq800.rootcut_muon_Posi_InvariantMass   				Total ->  41400 	    0.828 
+bilepton_M700_Mq800.rootcut_muon_Nega_InvariantMass   				Total ->  41400		    0.828 
+bilepton_M800_Mq800.rootcut_muon_Posi_InvariantMass   				Total ->  41425		    0.8285 
+bilepton_M800_Mq800.rootcut_muon_Nega_InvariantMass   				Total ->  41425             0.8285 
+bilepton_M900_Mq800.rootcut_muon_Posi_InvariantMass   				Total ->  41339		    0.82678 
+bilepton_M900_Mq800.rootcut_muon_Nega_InvariantMass 				Total ->  41339		    0.82678 
+bilepton_M1000_Mq800.rootcut_muon_Posi_InvariantMass   				Total ->  41141		    0.82282 
+bilepton_M1000_Mq800.rootcut_muon_Nega_InvariantMass   				Total ->  41141		    0.82282
